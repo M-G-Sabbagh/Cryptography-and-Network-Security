@@ -1,0 +1,305 @@
+In [1]: runfile('D:/SUT/Semester 6/Cryptography and Network Security/project/CNS_Project.py', wdir='D:/SUT/Semester 6/Cryptography and Network Security/project')
+
+
+
+Sign in (enter 1) or create an account (enter 2) ? 
+
+
+
+2
+
+
+
+Enter username:
+
+
+
+user
+
+
+
+Enter password:
+
+
+
+pass
+
+
+
+Welcome!
+
+
+
+Add new domain service (enter 1) 
+
+
+Get password of a domain service (enter 2)
+
+
+Change password of a domain service(enter 3) 
+
+
+Change your username or account password (enter 4)
+
+
+Log out (enter 5)
+
+
+
+1
+
+
+
+Enter new domain service:
+
+
+
+www.google.com
+
+
+
+Enter password of domain service:
+
+
+
+password
+
+
+
+New domain service and password added successfully.
+
+
+
+Add new domain service (enter 1) 
+
+
+Get password of a domain service (enter 2)
+
+
+Change password of a domain service(enter 3) 
+
+
+Change your username or account password (enter 4)
+
+
+Log out (enter 5)
+
+
+
+2
+
+
+
+Enter domain service:
+
+
+
+www.google.com
+
+
+
+The desired password is:  password
+
+
+
+Add new domain service (enter 1) 
+
+
+Get password of a domain service (enter 2)
+
+
+Change password of a domain service(enter 3) 
+
+
+Change your username or account password (enter 4)
+
+
+Log out (enter 5)
+
+
+
+3
+
+
+
+Enter domain service:
+
+
+
+www.google.com
+
+
+
+Enter new password of domain service:
+
+
+
+googlepassword
+
+
+
+Password changed successfully.
+
+
+
+Add new domain service (enter 1) 
+
+
+Get password of a domain service (enter 2)
+
+
+Change password of a domain service(enter 3) 
+
+
+Change your username or account password (enter 4)
+
+
+Log out (enter 5)
+
+
+
+4
+
+
+
+Enter new username:
+
+
+
+new
+
+
+
+Enter new password:
+
+
+
+newpass
+
+
+
+Username and password changed successfully.
+
+
+
+Add new domain service (enter 1) 
+
+
+Get password of a domain service (enter 2)
+
+
+Change password of a domain service(enter 3) 
+
+
+Change your username or account password (enter 4)
+
+
+Log out (enter 5)
+
+
+
+2
+
+
+
+Enter domain service:
+
+
+
+www.google.com
+
+
+
+The desired password is:  googlepassword
+
+
+
+Add new domain service (enter 1) 
+
+
+Get password of a domain service (enter 2)
+
+
+Change password of a domain service(enter 3) 
+
+
+Change your username or account password (enter 4)
+
+
+Log out (enter 5)
+
+
+
+1
+
+
+
+Enter new domain service:
+
+
+
+www.yahoo.com
+
+
+
+Enter password of domain service:
+
+
+
+yahoopassword
+
+
+
+New domain service and password added successfully.
+
+
+
+Add new domain service (enter 1) 
+
+
+Get password of a domain service (enter 2)
+
+
+Change password of a domain service(enter 3) 
+
+
+Change your username or account password (enter 4)
+
+
+Log out (enter 5)
+
+
+
+2
+
+
+
+Enter domain service:
+
+
+
+www.yahoo.com
+
+
+
+The desired password is:  yahoopassword
+
+
+
+Add new domain service (enter 1) 
+
+
+Get password of a domain service (enter 2)
+
+
+Change password of a domain service(enter 3) 
+
+
+Change your username or account password (enter 4)
+
+
+Log out (enter 5)
+
+
+
+5
